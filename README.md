@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DiogoDAguiar.
--  🇧🇷 I'm Brazilian. 
+-  🇧🇷  I'm Brazilian. 
 - 👀 I’m interested in HTML, CSS3, Python, PHP, Java!
 - 🌱 I’m currently learning all im interested and English!
 - 💞️ I’m looking to collaborate on anything that i know and can help!
